@@ -1,0 +1,224 @@
+{
+  "title": "Правила соревнований",
+  "tabs":[
+    {"tabname": "Файтинг",
+      "tabcontent": [
+        {
+          "title": "Начало схватки",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_nachalo.mp4"
+        }, {
+          "title": "Оценки Вазари 1 часть",
+          "subtitle": "Файтинг 1 часть",
+          "link": "/data/rules/fighting_1_vazari.mp4"
+        },
+        {
+          "title": "Оценки Иппон 1 часть",
+          "subtitle": "Файтинг 1 часть",
+          "link": "/data/rules/fighting_1_ippon.mp4"
+        },
+        {
+          "title": "Оценки во 2 части",
+          "subtitle": "Файтинг 2 часть",
+          "link": "/data/rules/fighting_2_ocenki.mp4"
+        },
+        {
+          "title": "Оценки Иппон 3 балла в 3 части",
+          "subtitle": "Файтинг 3 часть",
+          "link": "/data/rules/fighting_3_ippon3.mp4"
+        },
+        {
+          "title": "Оценки Иппон 2 балла в 3 части",
+          "subtitle": "Файтинг 3 часть",
+          "link": "/data/rules/fighting_3_uderzganie.mp4"
+        },
+        {
+          "title": "Окончание",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_okonchanie.mp4"
+        },
+        {
+          "title": "Запрещенные действия №1",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied1.mp4"
+        },
+        {
+          "title": "Запрещенные действия №2",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied2.mp4"
+        },
+        {
+          "title": "Запрещенные действия №3",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied3.mp4"
+        },
+        {
+          "title": "Запрещенные действия №4",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied4.mp4"
+        },
+        {
+          "title": "Запрещенные действия №5",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied5.mp4"
+        },
+        {
+          "title": "Запрещенные действия №6",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied6.mp4"
+        },
+        {
+          "title": "Запрещенные действия №7",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied7.mp4"
+        },
+        {
+          "title": "Запрещенные действия №8",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied8.mp4"
+        },
+        {
+          "title": "Запрещенные действия №9",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied9.mp4"
+        },
+        {
+          "title": "Запрещенные действия №10",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied10.mp4"
+        },
+        {
+          "title": "Запрещенные действия №11",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied11.mp4"
+        },
+        {
+          "title": "Запрещенные действия №12",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied12.mp4"
+        },
+        {
+          "title": "Запрещенные действия №13",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied13.mp4"
+        },
+        {
+          "title": "Запрещенные действия №14",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied14.mp4"
+        },
+        {
+          "title": "Запрещенные действия №15",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied15.mp4"
+        },
+        {
+          "title": "Запрещенные действия №16",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied16.mp4"
+        },
+        {
+          "title": "Запрещенные действия №17",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied17.mp4"
+        },
+        {
+          "title": "Запрещенные действия №18",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied18.mp4"
+        },
+        {
+          "title": "Запрещенные действия №19",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied19.mp4"
+        },
+        {
+          "title": "Запрещенные действия №20",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied20.mp4"
+        },
+        {
+          "title": "Запрещенные действия №21",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied21.mp4"
+        },
+        {
+          "title": "Запрещенные действия №22",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied22.mp4"
+        },
+        {
+          "title": "Запрещенные действия №23",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied23.mp4"
+        },
+        {
+          "title": "Запрещенные действия №24",
+          "subtitle": "Файтинг",
+          "link": "/data/rules/fighting_denied24.mp4"
+        }
+      ]
+    },
+    {"tabname": "Не-ваза",
+      "tabcontent": [
+        {
+          "title": "Начало и окончание схватки",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_nachalo_okonchanie.mp4"
+        },
+        {
+          "title": "Оценки 2 балла (видео 1)",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_ocenki_2_1.mp4"
+        },
+        {
+          "title": "Оценки 2 балла (видео 2)",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_ocenki_2_2.mp4"
+        },
+        {
+          "title": "Оценки 2 балла (видео 3)",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_ocenki_2_3.mp4"
+        },
+        {
+          "title": "Оценки 3 балла",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_ocenki_3_1.mp4"
+        },
+        {
+          "title": "Оценки 4 балла (видео 1)",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_ocenki_4_1.mp4"
+        },
+        {
+          "title": "Оценки 4 балла (видео 2)",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_ocenki_4_2.mp4"
+        },
+        {
+          "title": "Запрещенные действия №1",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_denied1.mp4"
+        },
+        {
+          "title": "Запрещенные действия №2",
+          "subtitle": "Не-ваза",
+          "link": "/data/rules/nevaza_denied2.mp4"
+        }
+      ]
+    },
+    {"tabname": "Дуо-систем",
+      "tabcontent": [
+
+      ]
+    }
+  ],
+  "pdfs": [
+    {
+      "title": "Правила",
+      "link": "/data/rules/rules.pdf"
+    }
+
+  ]
+}
